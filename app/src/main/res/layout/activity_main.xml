@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/square1"
+        android:layout_width="82dp"
+        android:layout_height="70dp"
+        android:layout_row="0"
+        android:layout_column="0"
+        android:text="1" />
+
+    <Button
+        android:id="@+id/square2"
+        android:layout_width="82dp"
+        android:layout_height="70dp"
+        android:layout_row="0"
+        android:layout_column="1"
+        android:text="2" />
+
+    <Button
+        android:id="@+id/square3"
+        android:layout_width="82dp"
+        android:layout_height="70dp"
+        android:layout_row="0"
+        android:layout_column="2"
+        android:text="3" />
+
+    <Button
+        android:id="@+id/square4"
+        android:layout_width="82dp"
+        android:layout_height="70dp"
+        android:layout_row="0"
+        android:layout_column="3"
+        android:text="4" />
+
+    <Button
+        android:id="@+id/square5"
+        android:layout_width="82dp"
+        android:layout_height="70dp"
+        android:layout_row="0"
+        android:layout_column="4"
+        android:text="5" />
+
+    <Button
+        android:id="@+id/square6"
+        android:layout_width="82dp"
+        android:layout_height="70dp"
+        android:layout_row="1"
+        android:layout_column="0"
+        android:text="6" />
+
+    <Button
+        android:id="@+id/square7"
+        android:layout_width="82dp"
+        android:layout_height="70dp"
+        android:layout_row="1"
+        android:layout_column="1"
+        android:text="7" />
+
+    <Button
+        android:id="@+id/square8"
+        android:layout_width="82dp"
+        android:layout_height="70dp"
+        android:layout_row="1"
+        android:layout_column="2"
+        android:text="8" />
+
+    <Button
+        android:id="@+id/square9"
+        android:layout_width="82dp"
+        android:layout_height="70dp"
+        android:layout_row="1"
+        android:layout_column="3"
+        android:text="9" />
+
+    <Button
+        android:id="@+id/square10"
+        android:layout_width="82dp"
+        android:layout_height="70dp"
+        android:layout_row="1"
+        android:layout_column="4"
+        android:text="10" />
+
+    <Button
+        android:id="@+id/square11"
+        android:layout_width="82dp"
+        android:layout_height="70dp"
+        android:layout_row="2"
+        android:layout_column="0"
+        android:text="11" />
+
+    <Button
+        android:id="@+id/square12"
+        android:layout_width="82dp"
+        android:layout_height="70dp"
+        android:layout_row="2"
+        android:layout_column="1"
+        android:text="12" />
+
+    <Button
+    android:id="@+id/square13"
+    android:layout_width="82dp"
+    android:layout_height="70dp"
+    android:layout_row="2"
+    android:layout_column="2"
+    android:text="13" />
+
+    <Button
+        android:id="@+id/square14"
+        android:layout_width="82dp"
+        android:layout_height="70dp"
+        android:layout_row="2"
+        android:layout_column="3"
+        android:text="14" />
+
+    <Button
+        android:id="@+id/square15"
+        android:layout_width="82dp"
+        android:layout_height="70dp"
+        android:layout_row="2"
+        android:layout_column="4"
+        android:text="15" />
+
+    <Button
+        android:id="@+id/square16"
+        android:layout_width="82dp"
+        android:layout_height="70dp"
+        android:layout_row="3"
+        android:layout_column="0"
+        android:text="16" />
+
+    <Button
+        android:id="@+id/square17"
+        android:layout_width="82dp"
+        android:layout_height="70dp"
+        android:layout_row="3"
+        android:layout_column="1"
+        android:text="17" />
+
+    <Button
+        android:id="@+id/square18"
+        android:layout_width="82dp"
+        android:layout_height="70dp"
+        android:layout_row="3"
+        android:layout_column="2"
+        android:text="18" />
+
+    <Button
+        android:id="@+id/square19"
+        android:layout_width="82dp"
+        android:layout_height="70dp"
+        android:layout_row="3"
+        android:layout_column="3"
+        android:text="19" />
+
+    <Button
+        android:id="@+id/square20"
+        android:layout_width="82dp"
+        android:layout_height="70dp"
+        android:layout_row="3"
+        android:layout_column="4"
+        android:text="20" />
+
+</GridLayout>
